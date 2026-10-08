@@ -134,13 +134,8 @@ Topics include:
 
 The goal is simple: learn the concepts and build real projects.
 
-## Connect
-
-**YouTube:**
-https://www.youtube.com/@TechWithMala
-
 **GitHub:**
-https://github.com/TechWithMala
+https://github.com/venkateshP-12
 
 ---
 
